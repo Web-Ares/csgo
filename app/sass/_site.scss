@@ -1,3 +1,4 @@
+/* --------------- site --------------- */
 .site {
   display: flex;
   flex-direction: column;
@@ -32,24 +33,5 @@
     background: #fff;
   }
 }
-@media (min-width: $phone-landscape) {
-  .site {
-
-  }
-}
-@media (min-width: $tablet-portrait) {
-  .site {
-
-  }
-}
-@media (min-width: $tablet-landscape) {
-  .site {
-
-  }
-}
-@media (min-width: $desktop) {
-  .site {
-
-  }
-}
+/* --------------- /site --------------- */
 
